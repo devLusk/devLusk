@@ -13,7 +13,7 @@ Hello! I'm Lucas from Brazil, specializing in Design and Development. I'm curren
 
 You can reach me on:
 
-- [Instagram](https://www.instagram.com/lucaz.silva_/) 📸
+- [Instagram](https://www.instagram.com/lukstrength/) 📸
 - [LinkedIn](https://www.linkedin.com/in/lusksilva/) 💼
 
 Feel free to connect! I'm open to new opportunities and conversations. 🚀
