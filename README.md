@@ -20,4 +20,4 @@ I'm Lucas Silva, a mobile developer from São Paulo, Brazil. I'm passionate abou
 ### Let's Connect!
 I'm always open to new ideas, collaborations, or just a good tech talk. Feel free to reach out if you'd like to work on something cool together! 🚀  
 
-- 🔗 LinkedIn: [in/luksilva](https://linkedin.com/in/luksilva)  
+- 🔗 LinkedIn: [in/luksilva](https://linkedin.com/in/lusksilva)  
