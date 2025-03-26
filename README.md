@@ -1,28 +1,23 @@
-# Welcome!
+## Hello, World! 👋
 
-Hello! I'm Lucas from Brazil, passionate about Design and Development. I'm always exploring new technologies, diving into language learning, and embracing fresh experiences. On my GitHub profile, you'll find my projects and the journey that shapes me as a developer.
+I'm Lucas Silva, a mobile developer from São Paulo, Brazil. I'm passionate about creating apps using **Android**, **Kotlin**, and **Flutter**. My journey in technology is driven by a love for solving problems and building user-friendly experiences.
 
-## Technologies
+### Skills and Technologies
+- **Languages**: Kotlin, Java, Dart, PHP  
+- **Frameworks**: Android, Flutter  
+- **Tools**: Git, Android Studio, VS Code  
+- **Others**: UI/UX Design, SQLite <!-- REST APIs -->
 
-- **Android** 🤖
-- **Kotlin** 📱
-- **PHP** 🌐
-- **Java** ☕
-- **UI/UX Design** 🎨
+### Featured Projects
+- **ViaCEP Android App**: A Android client for the ViaCEP API, built with Jetpack Compose.  
+- **Todo Application**: A ToDo application, built with Flutter.
 
-<!-- ## Projects
+### What I'm Exploring
+- Jetpack Compose to build simple and cool Android interfaces.
+- Widges and state management in Flutter
+- Best practices in mobile app architecture
 
-Here are some of my highlighted projects:
+### Let's Connect!
+I'm always open to new ideas, collaborations, or just a good tech talk. Feel free to reach out if you'd like to work on something cool together! 🚀  
 
-- **Finance Tracker** - A smart app for tracking deposits and earnings, helping users achieve financial goals.
-- **Moto Marketplace** - A sleek, responsive platform for buying and selling motorcycles with a modern UI/UX approach.
-- **Portfolio Website** - My personal space showcasing my design and development expertise. -->
-
-## Contact
-
-Let's connect! You can find me on:
-
-- [Instagram](https://www.instagram.com/lukstrength/) 📸
-- [LinkedIn](https://www.linkedin.com/in/lusksilva/) 💼
-
-Always open to new opportunities and great conversations. 🚀
+- 🔗 LinkedIn: [in/luksilva](https://linkedin.com/in/luksilva)  
