@@ -13,7 +13,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### 📊 GitHub Activity
 
@@ -21,7 +21,7 @@
 
 </div>
 
----
+--- -->
 
 <details>
 <summary>📂 About me</summary>
