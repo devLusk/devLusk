@@ -49,6 +49,12 @@ I'm also learning about architecture patterns like **MVVM** and trying to write 
 <summary>📁 Featured Projects</summary>
 <br>
 
+**GeoTactical**  
+Android app in Jetpack Compose to quickly identify your current neighborhood with precise, real-time location—perfect for tactical operations.  
+🔗 https://github.com/devLusk/GeoTactical
+
+---
+
 **FlashDrive Tool**  
 Small Python utility for managing and formatting USB drives.  
 🔗 https://github.com/devLusk/flashdrive-tool  
@@ -59,11 +65,6 @@ Small Python utility for managing and formatting USB drives.
 Bot that notifies Discord servers about new YouTube uploads.  
 🔗 https://github.com/devLusk/discord-channel-bot  
 
----
-
-**Daily Notes App**  
-Android notes app built with Kotlin and Jetpack Compose.  
-🔗 https://github.com/devLusk/daily-notes-app  
 </details>
 
 ---
